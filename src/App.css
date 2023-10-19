@@ -1,0 +1,23 @@
+/* App.css */
+.table-container {
+  margin: 20px;
+}
+
+.table-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-container th, .table-container td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.chart-container {
+  margin: 20px;
+}
+
+.chart-container h2 {
+  margin-bottom: 10px;
+}
